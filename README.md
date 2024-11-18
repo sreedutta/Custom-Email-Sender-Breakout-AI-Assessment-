@@ -1,4 +1,5 @@
 "Custom-Email-Sender-Breakout-AI-Assessment" 
+
 A Flask-based application to schedule and send emails using Google Sheets as the data source. 
 This project supports email throttling, analytics, and real-time updates via a dashboard.
 
